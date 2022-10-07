@@ -1,4 +1,4 @@
-# demo
+# pkg_practice
 
 A new Flutter project.
 
